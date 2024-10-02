@@ -1,16 +1,18 @@
-## Hi there 👋
+# 👋 Hello! I'm Linus
 
-<!--
-**linuswilkins/linuswilkins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!
 
-Here are some ideas to get you started:
+## 🌱 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 I am a computer science student.
+- 💼 Currently, I'm working at Fraunhofer IOSB.
+
+## 🛠️ Projects & Contributions
+
+### 🔥 Featured Projects
+- **[3D-Annotator](https://github.com/3D-Annotator/3D-Annotator)** – An open-source, web-based labeling tool for 3D data
+
+
+---
+
+⭐️ _If you like my work, consider giving a star to the repositories!_ 😊
