@@ -6,6 +6,7 @@ Welcome to my GitHub profile!
 
 - 🎓 I am a computer science student.
 - 💼 Currently, I'm working at Fraunhofer IOSB.
+- 🖥️ [Website](linuswilkins.de)
 
 ## 🛠️ Projects & Contributions
 
